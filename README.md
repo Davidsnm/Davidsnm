@@ -34,7 +34,7 @@ Perfil técnico multidisciplinar de visión 360º con sólida trayectoria empír
 * **Mantenimiento de Final de Línea:** Aseguramiento operativo de 4 formadoras de cajas, 14 cerradoras, 4 hornos de retractilado y muelles telescópicos.
 
 **Consultor de IA y Desarrollador Principal (Proyectos Propios y B2B)**
-*AutomaticIA (Proyecto: [Asistente Zyro Workspace](https://asistente-zyro-workspace.web.app/app.html))* | [Mes, Año] – Actualidad
+*AutomaticIA (Proyecto: [Asistente Zyro Workspace](https://asistente-zyro-workspace.web.app/app.html))* | [Agosto 2026 – Actualidad
 * **Implementación B2B (Consultoría):** Despliegue de múltiples proyectos de automatización institucional para una importante entidad corporativa en Madrid (Cliente Confidencial), conectando IA con flujos de trabajo internos complejos.
 * **Diseño y Arquitectura:** Lidero el desarrollo integral de un agente de IA autónomo para flujos empresariales. *(Ver [demostración en vídeo](https://youtu.be/bbtT0-1bVDs) o visitar el [Canal de YouTube Oficial](https://m.youtube.com/@AsistenteZyro))*
 * **Integración y Seguridad:** Conexiones backend con Google Workspace (OAuth) y validación estricta para la ejecución de acciones automatizadas.
