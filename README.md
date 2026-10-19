@@ -2,7 +2,7 @@
 **Especialista Sénior en Automatización Industrial, Mecatrónica e IA Aplicada**
 
 Madrid, Spain | +34 637577952 | dsannicolas@automaticia.tech 
-**LinkedIn:** [[URL de tu LinkedIn]](https://www.linkedin.com/in/david-san-nicol%C3%A1s-montero-32a33210b/) | **GitHub:** [https://github.com/Davidsnm](https://github.com/Davidsnm) 
+**LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/david-san-nicol%C3%A1s-montero-32a33210b/) | **GitHub:** [https://github.com/Davidsnm](https://github.com/Davidsnm) 
 
 ---
 
