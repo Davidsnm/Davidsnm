@@ -34,7 +34,7 @@ Perfil técnico multidisciplinar de visión 360º con sólida trayectoria empír
 * **Mantenimiento de Final de Línea:** Aseguramiento operativo de 4 formadoras de cajas, 14 cerradoras, 4 hornos de retractilado y muelles telescópicos.
 
 **Consultor de IA y Desarrollador Principal (Proyectos Propios y B2B)**
-*AutomaticIA (Proyecto: [Asistente Zyro Workspace](https://asistente-zyro-workspace.web.app/app.html))* | [Agosto 2026 – Actualidad
+*AutomaticIA (Proyecto: [Asistente Zyro Workspace](https://asistente-zyro-workspace.web.app/app.html))* | Agosto 2026 – Actualidad
 * **Implementación B2B (Consultoría):** Despliegue de múltiples proyectos de automatización institucional para una importante entidad corporativa en Madrid (Cliente Confidencial), conectando IA con flujos de trabajo internos complejos.
 * **Diseño y Arquitectura:** Lidero el desarrollo integral de un agente de IA autónomo para flujos empresariales. *(Ver [demostración en vídeo](https://youtu.be/bbtT0-1bVDs) o visitar el [Canal de YouTube Oficial](https://m.youtube.com/@AsistenteZyro))*
 * **Integración y Seguridad:** Conexiones backend con Google Workspace (OAuth) y validación estricta para la ejecución de acciones automatizadas.
@@ -42,7 +42,7 @@ Perfil técnico multidisciplinar de visión 360º con sólida trayectoria empír
 **Socio Fundador y Ex Administrador (Propietario del 50%)**
 *Servicios Globales en Sistemas para Automatismos e Ingeniería, S.L.* | 2013 – 2018 (Gestión activa) / Actualidad (Socio)
 * **Propiedad y Emprendimiento:** Socio fundador y propietario del 50% de las acciones de esta sociedad mercantil en activo.
-* **Gestión Directiva y Liderazgo:** Liderazgo estratégico y administración de la empresa (2015-2018), coordinando y gestionando directamente a un **equipo técnico de 14 personas**.
+* **Gestión Directiva y Liderazgo:** Liderazgo estratégico y administración de la empresa (2015-2018), coordinando y gestionando directamente a un **equipo técnico**.
 * **Supervisión Técnica y Mecánica:** Control de calidad, diseño de hardware/firmware, instalación de sistemas hidráulicos, neumáticos y electromecánicos, y dirección de proyectos (desarrollo del sistema EA1).
 
 ---
