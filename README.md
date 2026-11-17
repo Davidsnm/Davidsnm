@@ -59,7 +59,7 @@ Perfil técnico multidisciplinar de visión 360º con sólida trayectoria empír
 * **Artículo Técnico:** *["From Chatbots to Autonomous Agents..."](https://coderlegion.com/30260/from-chatbots-to-autonomous-agents-david-san-nicolas-monteros-developer-journey)* https://coderlegion.com/30336/from-chatbots-to-autonomous-agents-the-real-architecture-of-ai-in-production (Publicado en CoderLegion).
 * **Divulgador Tecnológico:** Creador de contenido sobre arquitectura de software para IA, integración de APIs y evolución de la IA hacia agentes ejecutores.
 
-* ## 📚 Investigación Independiente y Publicaciones Académicas
+## 📚 Investigación Independiente y Publicaciones Académicas
 
 Investigación independiente en la intersección de la filosofía de la mente, la cognición sintética, la neurocomputación, la cibernética y la inteligencia artificial.
 
