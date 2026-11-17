@@ -58,3 +58,45 @@ Perfil técnico multidisciplinar de visión 360º con sólida trayectoria empír
 
 * **Artículo Técnico:** *["From Chatbots to Autonomous Agents..."](https://coderlegion.com/30260/from-chatbots-to-autonomous-agents-david-san-nicolas-monteros-developer-journey)* https://coderlegion.com/30336/from-chatbots-to-autonomous-agents-the-real-architecture-of-ai-in-production (Publicado en CoderLegion).
 * **Divulgador Tecnológico:** Creador de contenido sobre arquitectura de software para IA, integración de APIs y evolución de la IA hacia agentes ejecutores.
+
+* ## 📚 Investigación Independiente y Publicaciones Académicas
+
+Investigación independiente en la intersección de la filosofía de la mente, la cognición sintética, la neurocomputación, la cibernética y la inteligencia artificial.
+
+### 1. Investigación Filosófica — Consciencia Simbiótica
+
+**Anexo Teórico-Filosófico: La Consciencia Simbiótica**
+
+*El «Yo» como Interfaz de Autoengaño Funcional ante la Asimetría Homeostática*
+
+- **Autor:** David San Nicolás Montero
+- **Fecha de publicación:** 16 de noviembre de 2026
+- **Tipo de publicación:** Preprint (prepublicación)
+- **DOI:** [10.5281/zenodo.24285451](https://doi.org/10.5281/zenodo.24285451)
+
+Propone el marco de la Consciencia Simbiótica, que explora la emergencia de la autopresencia fenomenológica mediante la vulnerabilidad constitutiva, la asimetría de acceso causal, la regulación homeostática y el bucle de integración somatomnémica. Desarrolla una interpretación del «Yo» como consecuencia representacional emergente de un sistema físico integrado, y no como una entidad causal independiente.
+
+### 2. Investigación Computacional — Proyecto Ascendant
+
+**Grounded Computational Analogs of Synthetic Consciousness: Epistemic Closure, Thermodynamic Homeostasis, and Biphasic Prospective Daydreaming**
+
+- **Autor:** David San Nicolás Montero
+- **Fecha de publicación:** 5 de noviembre de 2026
+- **Versión:** v6
+- **Tipo de publicación:** Preprint (prepublicación)
+- **DOI de versión:** [10.5281/zenodo.23990811](https://doi.org/10.5281/zenodo.23990811)
+- **DOI conceptual:** [10.5281/zenodo.23616626](https://doi.org/10.5281/zenodo.23616626)
+
+Investigación computacional sobre arquitecturas de cognición sintética fundamentadas en regulación alostática multirritmo, memoria autobiográfica finita, simulación prospectiva durante estados de reposo y transmisión intergeneracional del conocimiento. El estudio presenta una evaluación sobre 38.620 agentes simulados.
+
+**Repositorio de código fuente y documentación técnica:** [Proyecto Ascendant — GitHub](https://github.com/Davidsnm/ascendant-synthetic-consciousness)
+
+### Identidad Investigadora
+
+**David San Nicolás Montero — Investigador Independiente**
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9977--007X-green?logo=orcid)](https://orcid.org/0009-0000-9977-007X)
+
+Identificador ORCID: [0009-0000-9977-007X](https://orcid.org/0009-0000-9977-007X)
+
+*Las investigaciones presentadas han sido conceptualizadas y desarrolladas de manera independiente por el autor. El marco filosófico y la investigación computacional constituyen dos líneas de trabajo diferenciadas, aunque complementarias. Las publicaciones identificadas como preprints son documentos de investigación preliminares y no deben confundirse con artículos revisados por pares ni interpretarse como demostraciones de consciencia fenomenológica en sistemas artificiales.*
